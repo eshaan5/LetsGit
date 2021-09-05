@@ -5,7 +5,7 @@ int main()
 {
 	cout<<"Namaste C++\nGreat";
 	cout<<"This is coz of dev\n";
-	cout<<"Now I'm merging";
+	cout<<"Now I'm merging\\\\\\\\\\\";
 	
 	return 0;
 }
